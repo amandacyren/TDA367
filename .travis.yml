@@ -7,5 +7,4 @@ before_install:
  
  script:
   - ./gradlew clean build -i --continue
-  
  
